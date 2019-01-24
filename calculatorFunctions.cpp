@@ -3,7 +3,10 @@
 #include <string>
 #include <iomanip>
 
-using namespace std;
+using namespace std::cout;
+using namespace std::cin;
+using namespace std::endl;
+using namespace std::string;
 #include "person.h"
 #include "calculatorFunctions.h"
 
